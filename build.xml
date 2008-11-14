@@ -91,6 +91,12 @@
             <include name="**" />
             
         </zip>
+        
+        <!-- cleanup temp files/dirs -->
+        <delete dir="${agentzip.dir}" />
+        <delete dir="${zip.dir}" />
+        <delete file="${dist.jar}" />
+        
     </target>
     
 </project>

@@ -1,11 +1,6 @@
-* SETTINGS_XCODE_TARGET_ACTIVETARGET support in params jsp
+Stuff Still Todo
+================
 
-* xcodebuild executor
-
-* View settings.
-
-* Add a project or two to SVN and add them to the CI server.
-
-* Distributed Builds
-* Add SDK selection, use -showsdks to populate sdk list
-
+- View settings.
+- Support Distributed Builds settings
+- Better/more unit tests.
