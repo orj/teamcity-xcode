@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2008, Oliver Jones.  All rights reserved.
+  -->
+
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans default-autowire="constructor">
+
+  <bean id="xcodeRunType" class="com.deeperdesign.teamcity.xcodeplugin.server.XCodeRunType"/>
+  <!--bean id="xcodeReportTab" class="jetbrains.buildServer.fxcop.server.FxCopReportTab"/ -->
+
+</beans>
