@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2008 Oliver Jones.  All rights reserved.
+ * Copyright (c) 2008 Oliver Jones.  See LICENSE file for details.
  */
 
 package com.deeperdesign.teamcity.xcodeplugin.agent;

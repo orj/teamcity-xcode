@@ -1,5 +1,5 @@
 <%--
- * Copyright (c) 2008 Oliver Jones.  All rights reserved.
+ * Copyright (c) 2008 Oliver Jones.  See LICENSE file for details.
 --%>
 
 <%@ taglib prefix="props" tagdir="/WEB-INF/tags/props" %>
