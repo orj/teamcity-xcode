@@ -3,7 +3,7 @@ TeamCity XCode Integration
 
 xcodebuild Runner
 -----------------
-This is a plugin for TeamCity 4.0 that provides a build agent runner that
+This is a plugin for TeamCity 4.0.2 that provides a build agent runner that
 invokes the xcodebuild command on MacOS X build agent hosts.
 
 Installation
